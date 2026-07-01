@@ -6,7 +6,7 @@ A beginner-friendly tool for training your own language model — no coding expe
 
 ## Download
 
-Go to the [Releases](../../releases) page to download the latest version.
+Go to the [Releases](https://github.com/mr-jay-wei/llm_trainer/releases) page to download the latest version.
 
 ## Why This Project?
 
@@ -37,7 +37,7 @@ Setting up ML environments is painful. Reading framework source code is confusin
 
 ## Quick Start
 
-1. Download the zip from [Releases](../../releases)
+1. Download the zip from [Releases](https://github.com/mr-jay-wei/llm_trainer/releases)
 2. Extract to a path without spaces (e.g. `D:\trainer_llm\`)
 3. Double-click `trainer_llm.exe`
 4. Follow Steps 1 → 2 → 3 → 4 on the interface
