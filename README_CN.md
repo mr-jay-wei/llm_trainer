@@ -6,7 +6,7 @@ LLM Trainer 工具
 
 ## 下载
 
-请前往 [Releases](../../releases) 页面下载最新版本。
+请前往 [Releases](https://github.com/mr-jay-wei/llm_trainer/releases) 页面下载最新版本。
 
 
 ## 一、痛点：为什么做这个？
@@ -31,7 +31,7 @@ LLM Trainer 工具
 
 ## 三、使用教程（保姆级，面向小白）
 1. 下载安装包（
-请前往 [Releases](../../releases) 页面下载最新版本。
+请前往 [Releases](https://github.com/mr-jay-wei/llm_trainer/releases) 页面下载最新版本。
 2. 双击 exe 启动
 3. 准备数据（CSV 格式）
 4. 点击"开始训练"
@@ -43,7 +43,7 @@ LLM Trainer 工具
 - 6 层 512 维，约 0.1B 参数
 
 ## 五、下载链接
-请前往 [Releases](../../releases) 页面下载最新版本。
+请前往 [Releases](https://github.com/mr-jay-wei/llm_trainer/releases) 页面下载最新版本。
 
 ## 六、操作步骤
 
